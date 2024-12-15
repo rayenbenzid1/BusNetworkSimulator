@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734258928 source:c:\users\rayen\onedrive\bureau\miniprojet-modecaractere\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
